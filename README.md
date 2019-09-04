@@ -27,6 +27,8 @@ paste the following and modify with your DB URI and JWT Secret key
 3. install modules (you need nodejs to be installed)
 ```
 $ npm install
+$ npm run client-install
+
 ```
 
 4. run dev server
